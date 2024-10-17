@@ -36,7 +36,7 @@ Overview:
   - Calculation of time spent on each step process for both variation groups and ploting a bar chart for better visualization and understanding. 
 - Calculation and pie chart plot for the error rate of both variation groups.
 - Comparison and explanation between the two groups in completion rate.
-- Testing 3 hypothesis:
+- Testing 3 hypotheses:
   - Completion rate, with its defined H0 and H1.
   - Completion rate with a cost-effectiveness threshold of +0,05%, with its defined H0 and H1.
   - Hypothesis testing between clients average age and step process, with its defined H0 and H1.
